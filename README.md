@@ -22,7 +22,7 @@
 
 ## 📂 Projects
 
-- [Personal Portfolio](https://github.com/MmeliSyanda/Personal-Portfolio) – My personal portfolio website built to showcase my work and skills.
+- https://mmelisyanda.github.io/Personal-Portfolio/ – My personal portfolio website built to showcase my work and skills.
 
 - [Final Exam – Time Series Forecasting & Sentiment Analysis](https://github.com/MmeliSyanda/Final-Exam-M-CELE)  
   A final-year Python project focused on data-driven forecasting and analysis:
