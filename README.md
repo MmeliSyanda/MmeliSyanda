@@ -31,6 +31,10 @@
   - 🧠 Sentiment analysis using NLP techniques  
   Demonstrates skills in Python, machine learning, time series forecasting, and data analysis.
 
+-https://mmelisyanda.github.io/Contact-Book-App/
+Contact Book App built from scratch. It uses an Api to fetch data from an external database.
+#FNBAPPACADEMY2025
+
 ---
 
 ## 📈 GitHub Stats
