@@ -33,6 +33,7 @@
 
 -https://mmelisyanda.github.io/Contact-Book-App/
 Contact Book App built from scratch. It uses an Api to fetch data from an external database.
+Built using HTML,CSS and JavaScript.
 #FNBAPPACADEMY2025
 
 ---
